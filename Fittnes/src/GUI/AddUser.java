@@ -95,7 +95,7 @@ public class AddUser extends JFrame {
 		lblNewLabel_1_1.setBounds(10, 45, 168, 25);
 		panel.add(lblNewLabel_1_1);
 		
-		JLabel lblNewLabel_1 = new JLabel("Enter New Username:");
+		JLabel lblNewLabel_1 = new JLabel("Unesite korisnika:");
 		lblNewLabel_1.setForeground(SystemColor.controlLtHighlight);
 		lblNewLabel_1.setBounds(10, 10, 168, 25);
 		panel.add(lblNewLabel_1);
@@ -129,7 +129,7 @@ public class AddUser extends JFrame {
 		textField_1.setFont(new Font("Montserrat", Font.BOLD, 21));
 		panel.add(textField_1);
 		
-		JLabel lblNewLabel_1_2 = new JLabel("Weight:");
+		JLabel lblNewLabel_1_2 = new JLabel("Tezina:");
 		lblNewLabel_1_2.setForeground(SystemColor.controlLtHighlight);
 		lblNewLabel_1_2.setFont(new Font("Montserrat", Font.PLAIN, 15));
 		lblNewLabel_1_2.setBounds(10, 80, 60, 25);
@@ -222,7 +222,7 @@ public class AddUser extends JFrame {
 		btnNewButton_2_2.setBounds(10, 251, 85, 21);
 		contentPane.add(btnNewButton_2_2);
 		
-		JLabel lblNewLabel_2 = new JLabel("Username treba da ima prvo veliko pocetno slovo, i jedan broj");
+		JLabel lblNewLabel_2 = new JLabel("Username treba da ima veliko pocetno slovo, i jedan broj");
 		lblNewLabel_2.setFont(new Font("Montserrat", Font.PLAIN, 12));
 		lblNewLabel_2.setBounds(10, 146, 389, 90);
 		contentPane.add(lblNewLabel_2);
